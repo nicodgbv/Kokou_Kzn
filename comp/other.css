@@ -1,0 +1,79 @@
+body {
+	margin: 0px;
+	padding:0px;
+	background-color: black;
+	font-family: Pacifico, Arial, Serif;
+	font-weight: 350;
+}
+
+
+
+h1 {
+	font-size: 64px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+p {
+	text-align: center; 
+	font-size: 24px;
+}
+
+.Black {
+	background-color: black;
+}
+
+.Moyen { 
+	width: 45%;
+	text-align: center;
+	margin: auto;
+}
+
+.Vidéos {
+	width: 47.333%;
+	margin:auto;
+	}
+
+.Vidéos video {
+	width: 100%;
+} 
+
+.bdp {
+	width: 100%;
+	text-align: right;
+	background-color: #d34545;
+	display: flex;
+	color: white;
+	justify-content: space-between;
+	margin-top: -6px;
+}
+
+.carousel-item {
+	height: 400px;
+	top:-100px;
+	height: 500px;
+}
+
+.logo {
+	width: 5%;
+}
+
+.Icons {
+	width: 95%;
+	font-size: 50px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.bgres {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+}

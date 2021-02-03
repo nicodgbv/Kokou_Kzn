@@ -1,0 +1,13 @@
+.accordion-body {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	text-align: center;
+	align-content: center;
+}
+
+
+.accordion-body video {
+	width: 45%;
+	margin-bottom: 20px;
+}

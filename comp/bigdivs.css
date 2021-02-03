@@ -1,0 +1,28 @@
+.BigDiv {
+	width: 100%;
+	background-color: #d34545;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: -16px;
+}
+
+.BigDiv2 {
+	width: 100%;
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-bottom: -6px;
+	margin-top: 10px;
+	margin-right: 0px;
+}
+.BigDiv3 {
+	width: 100%;
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 0px;
+}

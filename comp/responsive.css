@@ -1,0 +1,107 @@
+@media screen and (max-width: 600px) {
+
+.BigDiv {
+	width: 100%;
+	background-color: #d34545;
+	color: white;
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: space-between;
+	margin-bottom: -17px;
+}
+
+
+.Vidéos {
+	width: 100%;
+	margin:auto;
+	}
+
+.Vidéos video {
+	width: 100%;
+} 
+
+.BigDiv2 {
+	width: 100%;
+	background-color: black;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: -6px;
+	margin-top: 10px;
+	margin-right: 0px;
+}
+
+.Moyen { 
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+.accordion-body {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	text-align: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.accordion-body video {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.BigDiv3 {
+	width: 100%;
+	background-color: #d34545;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0px;
+}
+
+.bannierehaut {
+	color: white;
+	text-align: center; 
+	background-size: cover;
+	height: 270px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+.banner{
+	height: 100px;
+	padding: 50px 50px;
+}
+
+.carousel-item {
+	height: 400px;
+	top:0px;
+	height: 175px;
+}
+
+.btn {
+	font-size: 8px;
+}
+.Icons {
+	width: 95%;
+	font-size: 25px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+}
+
+.res{
+	height: 500px;
+}
+}
